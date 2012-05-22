@@ -88,15 +88,15 @@ function GeocodeCallback(result, addy) {
 	if(addy.longitude!='' && addy.longitude!=null && addy.latitude!='' && addy.latitude!=null) {
 		var loc = new Microsoft.Maps.Location(addy.latitude, addy.longitude);
 		var this_pin = new Microsoft.Maps.Pushpin(loc);
-		description_text = 'Parcel ID: '+addy.parcel_id+"\r\n"+'Neighborhood: '+addy.neighborhood+"\r\n"+'Ward: '+addy.ward;
+		description_text = 'Parcel ID: '+addy.parcel_id+'<br />Neighborhood: '+addy.neighborhood+'<br />Ward: '+addy.ward;
 		if(addy.description!='') {
-			description_text = description_text+"\r\n"+'Description: '+addy.description;
+			description_text = description_text+'<br />Description: '+addy.description;
 		}
 		if(addy.usage!='') {
-			description_text = description_text+"\r\n"+'Usage: '+addy.usage;
+			description_text = description_text+'<br />Usage: '+addy.usage;
 		}
 		if(addy.lot_square_feet!='') {
-			description_text = description_text+"\r\n"+'Square Feet: '+Math.round(addy.lot_square_feet);
+			description_text = description_text+'<br />Square Feet: '+Math.round(addy.lot_square_feet);
 		}
 		this_pin.Description = description_text;
 		this_pin.Title = addy.street;
@@ -111,15 +111,15 @@ function GeocodeCallback(result, addy) {
 		} else {
 			var loc = new Microsoft.Maps.Location(result.resourceSets[0].resources[0].geocodePoints[0].coordinates[0], result.resourceSets[0].resources[0].geocodePoints[0].coordinates[1]);
 			var this_pin = new Microsoft.Maps.Pushpin(loc);
-			description_text = 'Parcel ID: '+addy.parcel_id+"\r\n"+'Neighborhood: '+addy.neighborhood+"\r\n"+'Ward: '+addy.ward;
+			description_text = 'Parcel ID: '+addy.parcel_id+'<br />Neighborhood: '+addy.neighborhood+'<br />Ward: '+addy.ward;
 			if(addy.description!='') {
-				description_text = description_text+"\r\n"+'Description: '+addy.description;
+				description_text = description_text+'<br />Description: '+addy.description;
 			}
 			if(addy.usage!='') {
-				description_text = description_text+"\r\n"+'Usage: '+addy.usage;
+				description_text = description_text+'<br />Usage: '+addy.usage;
 			}
 			if(addy.lot_square_feet!='') {
-				description_text = description_text+"\r\n"+'Square Feet: '+Math.round(addy.lot_square_feet);
+				description_text = description_text+'<br />Square Feet: '+Math.round(addy.lot_square_feet);
 			}
 			this_pin.Description = description_text;
 			this_pin.Title = addy.street;
