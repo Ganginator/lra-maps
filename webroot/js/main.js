@@ -84,6 +84,16 @@ function hideInfobox(e) {
 	pinInfobox.setOptions({ visible: false });
 }
 
+function ucwords(the_text){
+	var newVal = '';
+	var val = the_text.split(' ');
+	
+	for(var c=0; c < val.length; c++) {
+		newVal += val[c].substring(0,1).toUpperCase() + val[c].substring(1,val[c].length) + (c+1==val.length ? '' : ' ');
+	}
+	return newVal;
+}
+
 function GeocodeCallback(result, addy) {
 	if(addy.longitude!='' && addy.longitude!=null && addy.latitude!='' && addy.latitude!=null) {
 		var loc = new Microsoft.Maps.Location(addy.latitude, addy.longitude);
@@ -99,7 +109,7 @@ function GeocodeCallback(result, addy) {
 			description_text = description_text+'<br />Square Feet: '+Math.round(addy.lot_square_feet);
 		}
 		this_pin.Description = description_text;
-		this_pin.Title = addy.street;
+		this_pin.Title = ucwords(addy.street);
 		Microsoft.Maps.Events.addHandler(this_pin, 'click', displayInfobox);
 		dataLayer.push(this_pin);
 	} else {
@@ -122,7 +132,7 @@ function GeocodeCallback(result, addy) {
 				description_text = description_text+'<br />Square Feet: '+Math.round(addy.lot_square_feet);
 			}
 			this_pin.Description = description_text;
-			this_pin.Title = addy.street;
+			this_pin.Title = ucwords(addy.street);
 			Microsoft.Maps.Events.addHandler(this_pin, 'click', displayInfobox);
 			dataLayer.push(this_pin);
 			$.ajax({

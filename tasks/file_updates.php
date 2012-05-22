@@ -32,7 +32,7 @@
 					
 					if($plot_check!==NULL) {
 						$plot_check->type = $file_info->plot_type;
-						$plot_check->street = $plot[0];
+						$plot_check->street = ucwords(strtolower($plot[0]));
 						$plot_check->ward = $plot[2];
 						$plot_check->neighborhood = $plot[1];
 						$plot_check->zip = $plot[4];
