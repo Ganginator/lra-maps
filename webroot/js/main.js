@@ -108,8 +108,8 @@ function GeocodeCallback(result, addy) {
 		if(addy.lot_square_feet!='') {
 			description_text = description_text+'<br />Square Feet: '+Math.round(addy.lot_square_feet);
 		}
-		this_pin.Description = description_text;
 		this_pin.Title = ucwords(addy.street);
+		this_pin.Description = description_text;
 		Microsoft.Maps.Events.addHandler(this_pin, 'click', displayInfobox);
 		dataLayer.push(this_pin);
 	} else {
@@ -126,13 +126,13 @@ function GeocodeCallback(result, addy) {
 				description_text = description_text+'<br />Description: '+addy.description;
 			}
 			if(addy.usage!='') {
-				description_text = description_text+'<br />Usage: '+addy.usage;
+				description_text = description_text+', '+addy.usage;
 			}
 			if(addy.lot_square_feet!='') {
-				description_text = description_text+'<br />Square Feet: '+Math.round(addy.lot_square_feet);
+				description_text = description_text+Math.round(addy.lot_square_feet)+'sq ft';
 			}
-			this_pin.Description = description_text;
 			this_pin.Title = ucwords(addy.street);
+			this_pin.Description = description_text;
 			Microsoft.Maps.Events.addHandler(this_pin, 'click', displayInfobox);
 			dataLayer.push(this_pin);
 			$.ajax({
