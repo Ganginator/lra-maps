@@ -1,0 +1,15 @@
+[submodule "libraries/php-activerecord"]
+	path = libraries/php-activerecord
+	url = git://github.com/kla/php-activerecord.git
+[submodule "libraries/slim"]
+	path = libraries/slim
+	url = git://github.com/codeguy/Slim.git
+[submodule "libraries/pimple"]
+	path = libraries/pimple
+	url = git://github.com/fabpot/Pimple.git
+[submodule "libraries/bingmaps"]
+	path = libraries/bingmaps
+	url = git://github.com/mindtree/BingMapsPHPSDK.git
+[submodule "libraries/twig"]
+	path = libraries/twig
+	url = git://github.com/fabpot/Twig.git

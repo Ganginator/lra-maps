@@ -1,0 +1,14 @@
+/* TEAM */
+  Developer: Walker Hamilton
+  Site: http://walkerhamilton.com
+  Twitter: wlkh
+  Location: St. Louis, MO
+
+  Inspiration: Rhonda Smythe
+  Site: http://stlprovocateur.com
+  Twitter: rhondasmythe
+  Location: St. Louis, MO
+
+/* THANKS */
+  Organzation: St. Louis Development Corporation
+  Site: http://stlouis-mo.gov/government/departments/sldc/
