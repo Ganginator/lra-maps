@@ -11,6 +11,7 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4301 GROVE ST,Fairground Neighborhood,3,2 Story Brick Mixed Use Building,63107,Mixed,2580,14040000907
 4300 COLLEGE AV,Fairground Neighborhood,3,2 Story Brick Mixed Use Building-a/k/a 3921 Carter Ave.,63107,Mixed,2874.6197385,33940000100
 3008 KOSSUTH AV,Fairground Neighborhood,3,2 Story Brick Mixed Use Building,63107,Mixed,3000.08,19400001500
+4101 N 20TH ST,Hyde Park,3,2 Story Brick Mixed Use Building,63107,Mixed,3911.3250575,24170001300
 3500 N GRAND BLVD,JeffVanderLou,3,3 Story Brick Mixed Use Building-NEW PRICE,63107,Mixed,4620.840152,52150002300
 3651 NORTH MARKET ST,JeffVanderLou,3,2 Story Brick Mixed Use Building,63113,Mixed,4920,18730003600
 4265 N 20TH ST,Hyde Park,3,2 Story Brick Mixed Use Building,63107,Mixed,5553.974967,24360001500
@@ -19,7 +20,6 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 2716 N TAYLOR AV,The Ville,4,2 Story Brick Mixed Use Building,63113,Mixed,2761.5304815,37070003900
 2627 MARCUS AV,Kingsway East,4,2 Story Brick Mixed Use Building,63113,Mixed,2925.283305,44770203907
 4553 DR MARTIN LUTHER KING DR,The Greater Ville,4,2 Story Brick Mixed Use Building,63113,Mixed,3408.448224,37230001650
-4471 ST LOUIS AV,The Greater Ville,4,3 Story Brick Mixed Use Building,63115,Mixed,3857.547875,44690603100
 4045 ASHLAND AV,The Greater Ville,4,2 Story Brick Mixed Use Building,63107,Mixed,5006,51940002700
 4279 KENNERLY AV,The Ville,4,2 Story Brick Mixed Use Building,63113,Mixed,5486,36740005107
 2520 N VANDEVENTER AV,JeffVanderLou,4,2 Story Brick Mixed Use Building,63113,Mixed,5492.136029,36310000700
@@ -27,8 +27,9 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 2602 N TAYLOR AV,The Ville,4,2 Story Brick Mixed Use Building,63113,Mixed,5994,37060004100
 1225 N TAYLOR AV,Lewis Place,4,2.5 Story Brick Mixed Use Building,63113,Mixed,6380,45530501807
 4409 ST LOUIS AV,The Greater Ville,4,2 Story Brick Mixed Use Building,63115,Mixed,6555,44690601907
-3114 NEW ASHLAND PL,The Greater Ville,4,2 Story Brick Mixed Use Building,63115,Mixed,6584.7222185,44670401700
+3114 NEW ASHLAND PL,The Greater Ville,4,2 Story Brick Mixed Use Building,63115,Mixed,6584.72,44670401700
 2400 MARCUS AV,The Greater Ville,4,2 Story Brick Mixed Use Building aka 4663-69 N. Market,63113,Mixed,6878.4506155,44720003000
+4234 DR MARTIN LUTHER KING DR,Vandeventer,4,2 Story Brick Commercial Building,63113,Mixed,7501.146987,37280001800
 4400 ST LOUIS AV,The Ville,4,2 Story Brick Mixed Use Building,63115,Mixed,8000,37080000607
 4236 DR MARTIN LUTHER KING DR,Vandeventer,4,2 Story Brick Mixed Use Building,63113,Mixed,11006,37280001700
 2704 UTAH ST,Benton Park West,9,2 Story Brick Mixed Use Building,63118,Mixed,3500,15150002000

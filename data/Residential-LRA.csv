@@ -14,10 +14,10 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 3312 WILLIAM PL,Wells / Goodfellow,1,1 Story Brick Residence,63120,Residential,2822.630688,52480500600
 3307 ABNER PL,Wells / Goodfellow,1,2 Story Frame Residence,63120,Residential,2881.76,45190202700
 3401 MARCUS AV,Kingsway East,1,a/k/a 4703 Ashland-2 Story Brick Four Family Flat,63115,Residential,2935.274657,44590601800
+3417 MARCUS AV,Kingsway East,1,2 Story Brick Two Family Flat,63115,Residential,3080,44590601300
 5064 GERALDINE AV,Mark Twain,1,1 Story Frame Residence,63115,Residential,3113,50860002100
-5349 N EUCLID AV,Mark Twain,1,1 Story Frame Residence,63115,Residential,3125,54670004000
-1716 UNION BLVD,Kingsway West,1,1 Story Brick Residence,63113,Residential,3125,45110004500
 5034 CLAXTON AV,Mark Twain,1,1 Story Frame Residence,63120,Residential,3125,50880001100
+1716 UNION BLVD,Kingsway West,1,1 Story Brick Residence,63113,Residential,3125,45110004500
 4952 CLAXTON AV,Mark Twain,1,1 Story Brick Residence,63120,Residential,3125.0692235,55580001900
 4963 THEKLA AV,Mark Twain,1,1 Story Brick Residence,63115,Residential,3137,54680001700
 4107 WALBRIDGE PL,Penrose,1,1 Story Frame Residence,63115,Residential,3150.174322,43831702400
@@ -26,29 +26,27 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 5334 UNION BLVD,Mark Twain,1,1.5 Story Frame Residence,63115,Residential,3188,50840001000
 5338 UNION BLVD,Mark Twain,1,2 Story Frame Residence,63115,Residential,3188,50840001100
 5323 GERALDINE AV,Mark Twain,1,2 Story Brick Residence,63115,Residential,3188,50840004100
-5093 GERALDINE AV,Mark Twain,1,2 Story Frame Residence,63115,Residential,3200,50870004000
 5321 GERALDINE AV,Mark Twain,1,1 Story Frame Residence,63115,Residential,3210.7827415,50840004200
 5079 N KINGSHIGHWAY BLVD,Mark Twain,1,2 Story Brick Two Family Flat,63115,Residential,3219,57440003600
 2935 ABNER PL,Wells / Goodfellow,1,1 Story Brick Residence,63120,Residential,3279,45180004400
 4917 ASHBY AV,Mark Twain,1,2 Story Frame Residence,63115,Residential,3374.8413725,54660000200
-5240 ST LOUIS AV,Kingsway West,1,1 Story Brick Residence,63115,Residential,3437,44980000700
 4346 N EUCLID AV,Penrose,1,2 Story Brick Residence,63115,Residential,3458,43910206300
 5120 TERRY AV,Kingsway West,1,1 Story Brick Residence,63115,Residential,3562,44990602100
 5239 TERRY AV,Kingsway West,1,1 Story Brick Residence,63115,Residential,3576,44980001700
 4936 FARLIN AV,Penrose,1,2 Story Frame Residence,63115,Residential,3600,54630001000
 4877 CARTER AV,Penrose,1,2 Story Frame Residence,63115,Residential,3600,43910102800
 4719 GREER AV,Kingsway East,1,2 Story Brick Residence,63115,Residential,3708,44810304600
-5217 N EUCLID AV,Mark Twain,1,1.5 Story Frame Residence,63115,Residential,3750,55330004500
 5205 THEODOSIA AV,Kingsway West,1,2 Story Frame Residence,63113,Residential,3750,45110002300
+5217 N EUCLID AV,Mark Twain,1,1.5 Story Frame Residence,63115,Residential,3750,55330004500
 5250 PAULIAN PL,Kingsway West,1,2 Story Brick Residence,63113,Residential,3750,52830000300
 5246 PAULIAN PL,Kingsway West,1,2 Story Brick Two Family Flat,63113,Residential,3750,52830000400
 4920 SAN FRANCISCO AV,Penrose,1,1 Story Brick Residence,63115,Residential,3780,43870001500
 5206 ST LOUIS AV,Kingsway West,1,1 Story Brick Residence,63115,Residential,3781,44990500600
 5452 GERALDINE AV,Mark Twain,1,2 Story Frame Residence,63115,Residential,3825,50800001600
-4911 ST LOUIS AV,Kingsway East,1,2.5 Story Brick Two Family Flat,63115,Residential,3825,52600002600
 5097 RUSKIN AV,Mark Twain,1,2 Story Frame Residence,63115,Residential,3825,50860003600
-5072 UNION BLVD,Mark Twain,1,2 Story Frame Residence,63115,Residential,3840,50870002700
+4911 ST LOUIS AV,Kingsway East,1,2.5 Story Brick Two Family Flat,63115,Residential,3825,52600002600
 5083 GERALDINE AV,Mark Twain,1,1 Story Frame Residence,63115,Residential,3840,50870004400
+5072 UNION BLVD,Mark Twain,1,2 Story Frame Residence,63115,Residential,3840,50870002700
 4914 LILBURN AV,Mark Twain,1,1 Story Brick and 1 Story Frame Residence,63115,Residential,3917,54670003900
 4721 GREER AV,Kingsway East,1,2.5 Story Brick Residence,63115,Residential,3924,44810304700
 5132 TERRY AV,Kingsway West,1,1 Story Brick Residence,63115,Residential,3943,44990601600
@@ -107,9 +105,7 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 8511 N BROADWAY ,Baden,2,1 Story Brick Residence,63147,Residential,3450,56370003400
 1000 BITTNER ST,Baden,2,1 Story Brick Attached Residence,63147,Residential,3750,42390202200
 841 DESOTO AV,College Hill,2,2 Story Brick Residence,63107,Residential,3785,33600002600
-8566 PARTRIDGE AV,Baden,2,2 Story Frame Residence,63147,Residential,3840,53250000400
 8547 CHURCH RD,Baden,2,2 Story Brick Two Family Flat,63147,Residential,3955,52500001400
-1039 WALL ST,Baden,2,1 Story Frame Residence,63147,Residential,3983,52760005800
 1035 TILLIE AV,Baden,2,1 Story Frame Residence,63147,Residential,4200,42510002300
 1428 E DESOTO AV,College Hill,2,1 Story Brick Residence,63107,Residential,4286.2951315,33480500600
 1116 GANO AV,College Hill,2,1 Story Frame Residence,63107,Residential,4340.297539,24691100500
@@ -129,7 +125,6 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 864 HARLAN AV,Baden,2,1 Story Brick Residence,63147,Residential,6244,53990002600
 8409 CHURCH RD,Baden,2,1.5 Story Frame Residence,63147,Residential,6300,42480601500
 1034 GIMBLIN ST,Baden,2,2 Story Frame Residence,63147,Residential,7500,42500000600
-949 CANAAN AV,Baden,2,1 Story Brick Residence,63147,Residential,7650,52770006000
 8432 LOWELL ST,Baden,2,1 Story Brick Residence,63147,Residential,8000,60190000700
 845 COWAN ST,College Hill,2,2 Story Brick Residence,63107,Residential,11101.12,33480502200
 1029 SWITZER AV,Baden,2,1 Story Frame Residence,63147,Residential,12415,42400003100
@@ -147,6 +142,8 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 3405 N 14TH ST,Hyde Park,3,2 Story Brick Two Family Flat (Half Only),63107,Residential,1763.0608755,11840302300
 3431 BLAIR AV,Hyde Park,3,2 Story Frame Residence,63107,Residential,1844.7399175,11810501300
 4306 N FLORISSANT AV,College Hill,3,2 Story Brick Residence,63107,Residential,1857.4599865,24330000400
+3003 KOSSUTH AV,Fairground Neighborhood,3,Half of a 2 Story Brick Four Family Flat,63107,Residential,1859,19450001000
+3001 KOSSUTH AV,Fairground Neighborhood,3,Half of a 2 Story Brick Four Family Flat,63107,Residential,1888,19450000900
 4120 GROVE ST,Fairground Neighborhood,3,1 Story Brick Residence,63107,Residential,1890.0513875,19460000300
 4204 WARNE AV,Fairground Neighborhood,3,2 Story Brick Two Family Flat,63107,Residential,2080.82667,33960000300
 2115 PENROSE ST,Hyde Park,3,Half of a 2 Story Brick Four Family Flat,63107,Residential,2087,24350004900
@@ -233,8 +230,9 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4028 25TH ST,Hyde Park,3,2 Story Brick Residence,63107,Residential,2988.717948,24000000900
 3819 LABADIE AV,JeffVanderLou,3,Half of a 2 Story Brick Four Family Flat,63107,Residential,2993,36260002750
 4214 PECK ST,Fairground Neighborhood,3,2 Story Frame Residence,63107,Residential,2999.970555,24280000700
-4027 PECK ST,Fairground Neighborhood,3,2 Story Brick Residence,63107,Residential,3000,19420001900
+4333 STRODTMAN PL,College Hill,3,3 Story Brick Residence,63107,Residential,3000,24330002500
 4134 PECK ST,Fairground Neighborhood,3,2 Story Brick Residence,63107,Residential,3000,24230000300
+4027 PECK ST,Fairground Neighborhood,3,2 Story Brick Residence,63107,Residential,3000,19420001900
 4205 LINTON AV,Fairground Neighborhood,3,2 Story Brick Residence,63107,Residential,3000,33950003800
 4220 LINTON AV,Fairground Neighborhood,3,2 Story Brick Two Family Flat,63107,Residential,3000,33550000600
 4347 LINTON AV,Fairground Neighborhood,3,1 Story Brick Residence,63107,Residential,3000,33940002800
@@ -267,7 +265,6 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 1408 FERRY ST,Hyde Park,3,2 Story Brick Residence,63107,Residential,3181.6514035,24390501800
 3922 VEST AV,Hyde Park,3,3 Story Brick Residence,63107,Residential,3187.413824,23980000800
 3938 VEST AV,Hyde Park,3,1.5 Story Brick Residence,63107,Residential,3187.43756,23980001500
-3822 VEST AV,Hyde Park,3,2 Story Brick Residence,63107,Residential,3188,12460000400
 4344 WARNE AV,Fairground Neighborhood,3,2 Story Brick Residence,63107,Residential,3195,33970001400
 2623 NATURAL BRIDGE AV,Hyde Park,3,3 Story Brick Residence,63107,Residential,3198,12480000800
 4429 N 20TH ST,College Hill,3,2 Story Brick Residence,63107,Residential,3202.240929,24320002601
@@ -280,8 +277,8 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4318 19TH ST,College Hill,3,2 Story Brick Two Family Flat,63107,Residential,3242.435942,24430000700
 4430 19TH ST,College Hill,3,2 Story Brick Residence,63107,Residential,3250,24430002900
 4407 19TH ST,College Hill,3,2 Story Brick Residence,63107,Residential,3250,24440003700
-4325 19TH ST,College Hill,3,2 Story Brick Residence,63107,Residential,3250,24440004400
 1416 PENROSE ST,Hyde Park,3,2 Story Brick Two Family Flat,63107,Residential,3250,24140000800
+4325 19TH ST,College Hill,3,2 Story Brick Residence,63107,Residential,3250,24440004400
 1926 DESTREHAN ST,Hyde Park,3,1 Story Brick Residence,63107,Residential,3255,11720500200
 1410 FERRY ST,Hyde Park,3,2 Story Brick Two Family Flat,63107,Residential,3257.263959,24390501700
 3909 KOSSUTH AV,Fairground Neighborhood,3,2 Story Brick Residence,63107,Residential,3262,35880402100
@@ -313,9 +310,9 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4021 N FLORISSANT AV,Hyde Park,3,2 Story Brick Residence,63107,Residential,3487.519304,24020001700
 4409 19TH ST,College Hill,3,2 Story Frame Residence w/Brick Addition,63107,Residential,3493.143555,24440003600
 3734 MAFFITT AV,JeffVanderLou,3,2 Story Brick Two Family Flat,63113,Residential,3500,23840000400
-3736 ST LOUIS AV,JeffVanderLou,3,2 Story Brick Two Family Flat,63107,Residential,3500,48720000500
 3772 LEE AV,Fairground Neighborhood,3,2 Story Frame Residence,63107,Residential,3500,33040001300
 3729 MAFFITT AV,JeffVanderLou,3,1 Story Brick Residence,63113,Residential,3500,48720002400
+3736 ST LOUIS AV,JeffVanderLou,3,2 Story Brick Two Family Flat,63107,Residential,3500,48720000500
 4032 25TH ST,Hyde Park,3,2 Story Brick Residence,63107,Residential,3504.4719165,24000001100
 3817 MAFFITT AV,JeffVanderLou,3,2 Story Brick Two Family Flat,63113,Residential,3562,36280002400
 4008 N FLORISSANT AV,Hyde Park,3,2 Story Brick Two Family Flat,63107,Residential,3567,24030000400
@@ -334,17 +331,19 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4167 PECK ST,Fairground Neighborhood,3,1 Story Brick Residence,63107,Residential,3834,24220000800
 3717 HEBERT ST,JeffVanderLou,3,1 Story Brick Residence,63107,Residential,3834.6756275,23920002100
 3714 HEBERT ST,JeffVanderLou,3,2 Story Brick Residence,63107,Residential,3862,23890000900
+4201 N 21ST ST,Hyde Park,3,2 Story Brick Four Family Flat,63107,Residential,3873.513181,24350004800
 3729 LEE AV,Fairground Neighborhood,3,2 Story Brick Four Family Flat,63107,Residential,3885,24880002200
 3641 HEBERT ST,JeffVanderLou,3,1 Story Brick Residence,63107,Residential,3913.0742565,23910002000
 4309 COLLEGE AV,Fairground Neighborhood,3,2 Story Brick Two Family Flat,63107,Residential,3915.706799,33970003700
 3642 HEBERT ST,JeffVanderLou,3,1 Story Brick Residence,63107,Residential,3921.4417365,23900000300
+2119 PENROSE ST,Hyde Park,3,2 Story Brick Four Family Flat,63107,Residential,3942.411025,24350005100
 1915 E PRAIRIE AV,College Hill,3,2 Story Brick Two Family Flat,63107,Residential,3943.113374,33500003300
 1527 NEWHOUSE AV,Hyde Park,3,3 Story Brick Four Family Flat,63107,Residential,3969.8187375,24070001700
 1911 E PRAIRIE AV,College Hill,3,2 Story Brick Two Family Flat,63107,Residential,3990,33500003200
 3238 BARRETT ST,Fairground Neighborhood,3,3 Story Brick Two Family Flat,63107,Residential,3993.98,19260000500
 3954 N 21ST ST,Hyde Park,3,2 Story Brick Four Family Flat,63107,Residential,4001.274473,12390001300
-3859 GREER AV,JeffVanderLou,3,2 Story Brick Two Family Flat,63107,Residential,4065,51860003700
 3833 GREER AV,JeffVanderLou,3,2.5 Story Brick Residence,63107,Residential,4065,51860002800
+3859 GREER AV,JeffVanderLou,3,2 Story Brick Two Family Flat,63107,Residential,4065,51860003700
 2012 ANGELICA ST,Hyde Park,3,2 Story Brick Residence,63107,Residential,4111,24050000900
 4404 STRODTMAN PL,College Hill,3,2 Story Brick Two Family Flat,63107,Residential,4112,24320001400
 3768 LEE AV,Fairground Neighborhood,3,2 Story Brick Two Family Flat,63107,Residential,4130,33040001400
@@ -359,9 +358,9 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 3829 SHERMAN PL,Fairground Neighborhood,3,2 Story Brick Four Family Flat,63107,Residential,4462.1979985,35870004900
 4245 RANDALL PL,Hyde Park,3,1 Story Frame Residence,63107,Residential,4467.306264,24390502400
 3834 SULLIVAN AV,JeffVanderLou,3,2.5 Story Brick Residence,63107,Residential,4471,51860000900
+4225 PECK ST,Fairground Neighborhood,3,1 Story Brick Residence,63107,Residential,4500,24290001800
 2028 GANO AV,College Hill,3,2 Story Frame Residence,63107,Residential,4500,24760000700
 4224 PECK ST,Fairground Neighborhood,3,1 Story Frame Residence,63107,Residential,4500,24280000900
-4225 PECK ST,Fairground Neighborhood,3,1 Story Brick Residence,63107,Residential,4500,24290001800
 4132 GROVE ST,Fairground Neighborhood,3,2 Story Brick Four Family Flat,63107,Residential,4500.06119,24250000200
 4160 PLEASANT ST,Fairground Neighborhood,3,3 Story Brick Residence,63107,Residential,4500.066489,24240001300
 3958 N 21ST ST,Hyde Park,3,2 Story Brick Four Family Flat,63107,Residential,4503.477112,12390001400
@@ -378,6 +377,7 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 1512 PALM ST,Old North St. Louis,3,2.5 Story Brick Four Family Flat--ONSLRG-RFP,63107,Residential,4780.457816,11410000700
 4014 N FLORISSANT AV,Hyde Park,3,2 Story Brick Four Family Flat,63107,Residential,4781.173848,24030000600
 4225 LINTON AV,Fairground Neighborhood,3,2 Story Brick Two Family Flat,63107,Residential,4800,33950003100
+4220 N 22ND ST,Hyde Park,3,2 Story Brick Four Family Flat,63107,Residential,4854.851806,24340200600
 4408 BLAIR AV,College Hill,3,1 Story Brick Residence,63107,Residential,4885,24420001500
 2928 GREER AV,JeffVanderLou,3,2.5 Story Brick Residence,63107,Residential,4968,52210000500
 3941 N 21ST ST,Hyde Park,3,2 Story Brick Four Family Flat,63107,Residential,4971.833418,24040000900
@@ -402,6 +402,7 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4320 WARNE AV,Fairground Neighborhood,3,2.5 Story Stone Residence,63107,Residential,6012.9883095,33970000700
 4227 PRAIRIE AV,Fairground Neighborhood,3,2 Story Brick Residence,63107,Residential,6025.4383925,33540003400
 4347 COLLEGE AV,Fairground Neighborhood,3,2.5 Story Brick Four Family Flat,63107,Residential,6054.469059,33970002500
+3931 19TH ST,Hyde Park,3,3 Story Brick Four Family Flat,63107,Residential,6130.7113205,12380002100
 4248 LINTON AV,Fairground Neighborhood,3,2 Story Brick Four Family Flat,63107,Residential,6163.573468,33550001500
 3119 N SPRING AV,JeffVanderLou,3,2 Two Story Brick Four Family Flats,63107,Residential,6334,23890001400
 4405 BLAIR AV,College Hill,3,2 Story Frame Residence,63107,Residential,6345,24430004600
@@ -474,9 +475,9 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 3617 HARRIS AV,The Greater Ville,4,1 Story Brick Residence,63115,Residential,2496,44410900800
 3952 KENNERLY AV,The Greater Ville,4,2 Story Brick Residence,63113,Residential,2500,36440200240
 3911 KENNERLY AV,The Greater Ville,4,2 Story Brick Residence,63113,Residential,2500,36440102700
+3943 KENNERLY AV,The Greater Ville,4,2 Story Brick Residence,63113,Residential,2500,36440104000
 3918 KENNERLY AV,The Greater Ville,4,2 Story Brick Residence,63113,Residential,2500,36440200500
 3919 KENNERLY AV,The Greater Ville,4,2 Story Brick Residence,63113,Residential,2500,36440103000
-3943 KENNERLY AV,The Greater Ville,4,2 Story Brick Residence,63113,Residential,2500,36440104000
 4634 COTTAGE AV,The Greater Ville,4,2 Story Brick Rowhouse,63113,Residential,2529.9103185,44710001300
 3208 N NEWSTEAD AV,The Greater Ville,4,2.5 Story Brick Residence,63115,Residential,2562,36190002900
 3212 N NEWSTEAD AV,The Greater Ville,4,2.5 Story Brick Residence,63115,Residential,2562,36190002950
@@ -488,14 +489,15 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4230 W LEXINGTON AV,The Greater Ville,4,2 Story Brick Residence,63115,Residential,2700,44401000600
 4406 ST FERDINAND AV,The Ville,4,1 Story Frame Residence,63113,Residential,2703.374127,37040001800
 3133 ROLLA PL,The Greater Ville,4,1 Story Brick Residence,63115,Residential,2724.746261,44670403200
-3048 ROLLA PL,The Greater Ville,4,1 Story Brick Residence,63115,Residential,2750,44670301100
-3107 ROLLA PL,The Greater Ville,4,1 Story Brick Residence,63115,Residential,2750,44670404300
 3129 ROLLA PL,The Greater Ville,4,1 Story Brick Residence,63115,Residential,2750,44670403400
 3051 ROLLA PL,The Greater Ville,4,1 Story Brick Residence,63115,Residential,2750,44670404500
+3107 ROLLA PL,The Greater Ville,4,1 Story Brick Residence,63115,Residential,2750,44670404300
+3048 ROLLA PL,The Greater Ville,4,1 Story Brick Residence,63115,Residential,2750,44670301100
 3715 ST FERDINAND AV,JeffVanderLou,4,1 Story Brick Residence,63113,Residential,2758,18722201800
 4012 ST FERDINAND AV,The Greater Ville,4,2 Story Brick Two Family Flat,63113,Residential,2773.552452,36540001900
 4024 EVANS AV,Vandeventer,4,2 Story Brick Attached Row House,63113,Residential,2796,37330001600
 3512 CORA AV,The Greater Ville,4,1 Story Brick Residence,63115,Residential,2864,44490102100
+3042 MARCUS AV,The Greater Ville,4,,63115,Residential,2875,44610000300
 3114 FAIR AV,The Greater Ville,4,1 Story Brick Residence,63115,Residential,2894,36240001400
 4204 W COTE BRILLIANTE AV,The Ville,4,2 Story Brick Residence,63113,Residential,2898.00864,36830002150
 4331 ALDINE AV,The Ville,4,2 Story Brick Two Family Flat,63113,Residential,2924,36980003500
@@ -507,21 +509,20 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4519 ST FERDINAND AV,The Greater Ville,4,2 Story Brick Two Family Flat,63113,Residential,2986,37170003700
 3630 GARFIELD AV,JeffVanderLou,4,1 Story Brick Residence,63113,Residential,3000,18790000900
 3845 COTTAGE AV,JeffVanderLou,4,1 Story Brick Residence,63113,Residential,3000,36300003300
-3737 ALDINE AV,JeffVanderLou,4,1 Story Brick Residence,63113,Residential,3000,18690002700
-3739 ALDINE AV,JeffVanderLou,4,1 Story Brick Residence,63113,Residential,3000,18690002800
 4011 ST FERDINAND AV,The Greater Ville,4,1 Story Frame Residence,63113,Residential,3000,36530002300
+3739 ALDINE AV,JeffVanderLou,4,1 Story Brick Residence,63113,Residential,3000,18690002800
 3941 NORTH MARKET ST,The Greater Ville,4,1 Story Brick Residence,63113,Residential,3000,36410003400
+3737 ALDINE AV,JeffVanderLou,4,1 Story Brick Residence,63113,Residential,3000,18690002700
 4537 ALDINE AV,The Greater Ville,4,2 Story Brick Residence,63113,Residential,3045.5468195,37210003450
 4776 NORTHLAND AV,Kingsway East,4,2 Story Brick Two Family Flat,63113,Residential,3062.971118,44770201400
 4353 GARFIELD AV,The Ville,4,2 Story Brick Residence,63113,Residential,3066.144979,36960003600
 4812 CUPPLES PL,Kingsway East,4,1 Story Brick Residence,63113,Residential,3070,44771100400
 4834 NORTHLAND AV,Kingsway East,4,2 Story Brick Two Family Flat,63113,Residential,3075,44770200100
-4824 NORTHLAND AV,Kingsway East,4,2.5 Story Brick Residence,63113,Residential,3075,44770200500
 4733 NORTHLAND AV,Kingsway East,4,2 Story Brick Residence,63113,Residential,3075,44780004900
+4824 NORTHLAND AV,Kingsway East,4,2.5 Story Brick Residence,63113,Residential,3075,44770200500
 4211 ALDINE AV,The Ville,4,1 Story Brick Residence,63113,Residential,3076.076038,36800001800
 4022 N MARKET PL,The Greater Ville,4,2 Story Brick Two Family Flat,63113,Residential,3086.509418,36550001500
 4357 ALDINE AV,The Ville,4,1 Story Brick Residence,63113,Residential,3111.7817905,36980004500
-4537 GARFIELD AV,The Greater Ville,4,2 Story Brick Two Family Flat,63113,Residential,3122.2511865,37190002500
 4729 LABADIE AV,Kingsway East,4,2 Story Brick Residence,63115,Residential,3125,44800005300
 4451 ST FERDINAND AV,The Ville,4,2 Story Frame Residence,63113,Residential,3126.4087925,37050003500
 3960 NORTH MARKET ST,The Greater Ville,4,1 Story Brick Residence,63113,Residential,3130,36400000400
@@ -541,8 +542,8 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4417 COTTAGE AV,The Ville,4,2 Story Brick Residence,63113,Residential,3240,37060002700
 4515 ELMBANK AV,The Greater Ville,4,1 Story Brick Residence,63115,Residential,3250.555273,44620503800
 3968 NORTH MARKET ST,The Greater Ville,4,1 Story Brick Residence,63113,Residential,3254,36400000100
-4580 COTTAGE AV,The Greater Ville,4,1 Story Brick Residence,63113,Residential,3262,37170000600
 4348 ST FERDINAND AV,The Ville,4,1 Story Brick Residence,63113,Residential,3262,36950000800
+4580 COTTAGE AV,The Greater Ville,4,1 Story Brick Residence,63113,Residential,3262,37170000600
 4227 W GARFIELD AV,The Ville,4,1 Story Brick Residence,63113,Residential,3263,36850003800
 4568 NORTH MARKET ST,The Greater Ville,4,2 Story Brick Two Family Flat,63113,Residential,3263,37190000900
 4567 ST FERDINAND AV,The Greater Ville,4,2 Story Brick Two Family Flat,63113,Residential,3268,37170005400
@@ -552,8 +553,8 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4538 COTTAGE AV,The Greater Ville,4,1 Story Brick Residence,63113,Residential,3271.336116,37170002200
 4530 COTTAGE AV,The Greater Ville,4,1 Story Brick Residence,63113,Residential,3272,37170002500
 4409 COTTAGE AV,The Ville,4,2 Story Brick Two Family Flat,63113,Residential,3278,37060002300
-4226 W COTE BRILLIANTE AV,The Ville,4,1 Story Brick Residence,63113,Residential,3300,36830001600
 4137 EVANS AV,Vandeventer,4,2 Story Brick Residence,63113,Residential,3300,37310002300
+4226 W COTE BRILLIANTE AV,The Ville,4,1 Story Brick Residence,63113,Residential,3300,36830001600
 4446 COTE BRILLIANTE AV,The Ville,4,1 Story Brick Residence,63113,Residential,3300.276318,37010000600
 3905 EVANS AV,Vandeventer,4,2 Story Brick Residence,63113,Residential,3310,37320002200
 4229 W GARFIELD AV,The Ville,4,1 Story Brick Residence,63113,Residential,3315.485168,36850003900
@@ -565,16 +566,16 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 3533 N TAYLOR AV,The Greater Ville,4,2 Story Brick Residence,63115,Residential,3360,44480601700
 4424 COTTAGE AV,The Ville,4,1 Story Brick Residence,63113,Residential,3363,37050001200
 4009 ALDINE AV,The Greater Ville,4,2 Story Brick Two Family Flat,63113,Residential,3363.5296235,36570002200
-1901 BELLE GLADE AV,The Ville,4,2 Story Brick Residence,63113,Residential,3367,36640003300
 1812 BELLE GLADE AV,The Ville,4,1 Story Brick Residence,63113,Residential,3367,36620001400
+1901 BELLE GLADE AV,The Ville,4,2 Story Brick Residence,63113,Residential,3367,36640003300
 1903 BELLE GLADE AV,The Ville,4,2 Story Brick Row House,63113,Residential,3367,36640003200
 1800 WHITTIER ST,The Ville,4,1 Story Brick Residence,63113,Residential,3367,36610001400
 2605 N SARAH ST,The Ville,4,1 Story Brick Residence,63113,Residential,3367.025714,36660004000
 2604 BELLE GLADE AV,The Ville,4,2 Story Brick Residence,63113,Residential,3367.08,36660001300
 4156 MAFFITT AV,The Ville,4,2 Story Brick Two Family Flat,63113,Residential,3375,36670000200
 3120 WHITTIER ST,The Greater Ville,4,1 Story Brick Residence,63115,Residential,3377,36230001700
-4467 GREER AV,The Greater Ville,4,2 Story Brick Residence,63115,Residential,3387,36180004700
 4421 NORTH MARKET ST,The Ville,4,2 Story Brick Residence,63113,Residential,3387,37040002800
+4467 GREER AV,The Greater Ville,4,2 Story Brick Residence,63115,Residential,3387,36180004700
 4654 COTTAGE AV,The Greater Ville,4,1 Story Brick Residence,63113,Residential,3412,44710000300
 4587 COTE BRILLIANTE AV,The Greater Ville,4,2 Story Brick Residence,63113,Residential,3414.701633,37200005700
 3116 N SARAH ST,The Greater Ville,4,2 Story Brick Four Family Flat,63115,Residential,3416.43859,36250000500
@@ -597,13 +598,13 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 3952 MAFFITT AV,The Greater Ville,4,2 Story Brick Residence,63113,Residential,3583.053618,36440100600
 4423 COTTAGE AV,The Ville,4,1 Story Brick Residence,63113,Residential,3616.1982465,37060003000
 4633 KENNERLY AV,The Greater Ville,4,2 Story Brick Residence,63113,Residential,3625,37130002400
-4577 MAFFITT AV,The Greater Ville,4,1 Story Frame Residence,63113,Residential,3625,37140005000
-4529 KENNERLY AV,The Greater Ville,4,1 Story Frame Residence,63113,Residential,3625,37150003600
+4344 ASHLAND AV,The Greater Ville,4,1 Story Brick Residence,63115,Residential,3625,36190003500
 4639 MAFFITT AV,The Greater Ville,4,2 Story Brick Residence,63113,Residential,3625,37120001700
 4443 KENNERLY AV,The Ville,4,1 Story Brick Residence,63113,Residential,3625,37070003100
-4336 MAFFITT AV,The Ville,4,2 Story Brick Two Family Flat,63113,Residential,3625,36920001000
 4637 MAFFITT AV,The Greater Ville,4,1 Story Brick Residence,63113,Residential,3625,37120001600
-4344 ASHLAND AV,The Greater Ville,4,1 Story Brick Residence,63115,Residential,3625,36190003500
+4336 MAFFITT AV,The Ville,4,2 Story Brick Two Family Flat,63113,Residential,3625,36920001000
+4577 MAFFITT AV,The Greater Ville,4,1 Story Frame Residence,63113,Residential,3625,37140005000
+4529 KENNERLY AV,The Greater Ville,4,1 Story Frame Residence,63113,Residential,3625,37150003600
 3730 GARFIELD AV,JeffVanderLou,4,1 Story Brick Residence,63113,Residential,3660,18700000400
 4649 KENNERLY AV,The Greater Ville,4,2 Story Frame Residence,63113,Residential,3685.9256065,37130003000
 4350 LABADIE AV,The Greater Ville,4,2 Story Brick Residence,63115,Residential,3687,44680600400
@@ -659,6 +660,7 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4588 NORTH MARKET ST,The Greater Ville,4,2.5 Story Brick Residence,63113,Residential,4147.671775,37190000300
 4761 CUPPLES PL,Kingsway East,4,2.5 Story Brick Residence,63113,Residential,4150.95,44770205500
 4219 ST LOUIS AV,The Greater Ville,4,2 Story Brick Two Family Flat,63115,Residential,4159,36720003300
+4640 NORTH MARKET ST,The Greater Ville,4,2 Story Brick Residence,63113,Residential,4168.72,44730000400
 1825 ANNIE MALONE DR,The Ville,4,2 Story Brick Four Family Flat,63113,Residential,4183.58,36840002050
 4421 GREER AV,The Greater Ville,4,2 Story Brick Two Family Flat,63115,Residential,4204.042602,36180003000
 4145 ASHLAND AV,The Greater Ville,4,1 Story Brick Residence,63115,Residential,4225,44400703600
@@ -666,10 +668,11 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4217 EVANS AV,Vandeventer,4,2.5 Story Brick Residence,63113,Residential,4240.5640035,37280003200
 4634 ST FERDINAND AV,The Greater Ville,4,1 Story Brick Residence,63113,Residential,4250.84513,44720001300
 4770 GREER AV,Kingsway East,4,1 Story Stucco Residence,63115,Residential,4269.371151,44800002400
-4258 MAFFITT AV,The Ville,4,2 Story Brick Residence,63113,Residential,4275,36740000900
 4156 ST LOUIS AV,The Ville,4,2 Story Brick Two Family Flat,63115,Residential,4275,36680000200
 3922 LABADIE AV,The Greater Ville,4,2 Story Brick Residence,63107,Residential,4275,36460001600
+4258 MAFFITT AV,The Ville,4,2 Story Brick Residence,63113,Residential,4275,36740000900
 4207 ST LOUIS AV,The Greater Ville,4,2 Story Brick Two Family Flat,63115,Residential,4275,36720002900
+4228 MAFFITT AV,The Ville,4,2 Story Brick Two Family Flat,63113,Residential,4275,36740001700
 4804 LABADIE AV,Kingsway East,4,2 Story Brick Two Family Flat,63115,Residential,4296,44790000800
 4006 KENNERLY AV,The Greater Ville,4,2 Story Brick Four Family Flat,63113,Residential,4300,36510201900
 4230 W COTE BRILLIANTE AV,The Ville,4,1 Story Brick Residence,63113,Residential,4354.652457,36830001400
@@ -707,7 +710,6 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 1215 N TAYLOR AV,Lewis Place,4,3 Story Brick Residence,63113,Residential,4950,45530502000
 4520 PAGE BLVD,Lewis Place,4,2 Story Brick Residence,63113,Residential,4950.151713,45530501400
 1218 WALTON AV,Lewis Place,4,2 Story Brick Two Family Flat,63113,Residential,4953.0409625,37730005500
-3048 NEW ASHLAND PL,The Greater Ville,4,1 Story Brick Residence,63115,Residential,5044,44670401200
 4737 VERNON AV,Lewis Place,4,2 Story Brick Four Family Flat,63113,Residential,5050,37730004800
 3027 NEW ASHLAND PL,The Greater Ville,4,2 Story FrameTwo Family Flat,63115,Residential,5085.347681,44660004500
 4049 KENNERLY AV,The Greater Ville,4,2 Story Brick Four Family Flat,63113,Residential,5091,36510103800
@@ -771,6 +773,7 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 1408 BENTON ST,Old North St. Louis,5,2 Story Brick Partially Demolished Rowhouse,63106,Residential,2813,11130000900
 2018 PALM ST,Old North St. Louis,5,2 Story Brick Four Family Flat--ONSLRG-RFP,63107,Residential,3530.287587,11380000200
 1404 MONROE ST,Old North St. Louis,5,2 Story Brick Four Family Flat,63106,Residential,3937,06240000900
+2317 NEBRASKA AV,Tower Grove East,6,2 Story Brick Garage/Carriage House,63104,Residential,1464.457204,20810001700
 2821 HICKORY ST,The Gate District,6,1 Story Brick Residence,63104,Residential,2360,12600001400
 2350 MICHIGAN AV,Tower Grove East,6,1 Story Brick Residence,63104,Residential,2510.064739,14310000500
 2631 ALLEN AV,Fox Park,6,2 Story Brick Residence,63104,Residential,2991,13220002300
@@ -778,12 +781,12 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 2759 CAROLINE ST,The Gate District,6,2 Story Brick Residence,63104,Residential,3125,18180004600
 2739 ALLEN AV,Fox Park,6,1 Story Frame Residence,63104,Residential,3125,13180003400
 2356 MICHIGAN AV,Tower Grove East,6,2 Story Brick Residence,63104,Residential,3138,14310000200
-2701 MICHIGAN AV,Tower Grove East,6,1 Story Brick Residence,63118,Residential,5650,14330002500
 2926 PENNSYLVANIA AV,Tower Grove East,6,2 Story Brick Residence At Rear Of Lot aka 2915 Crittenden,63118,Residential,6379.476892,19990000100
 2229 LYNCH ST,Benton Park,9,1 Story Brick Attached Rowhouse,63118,Residential,1182.2023315,18030004700
 3533 MISSOURI AV,Marine Villa,9,1 Story Frame Residence,63118,Residential,3062,15570002400
 2924 MCNAIR AV,Benton Park,9,1 Story Brick Residence,63118,Residential,3069.7296915,19690000300
 3104 WYOMING ST,Benton Park West,9,2 Story Brick Two Family Flat,63118,Residential,3125,15040002300
+3420 TENNESSEE AV,Benton Park West,9,2 Story Brick Residence,63118,Residential,3125,15860001300
 2019 MIAMI ST,Marine Villa,9,2 Story Brick Residence,63118,Residential,3148.2875755,15530003800
 2021 MIAMI ST,Marine Villa,9,1 Story Brick Residence,63118,Residential,3149.95252,15530003900
 4215 CALIFORNIA AV,Mount Pleasant,9,2 Story Brick Two Family Flat,63111,Residential,3195.56,26590002300
@@ -793,7 +796,6 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 7810 MINNESOTA AV,Patch,11,1 Story Brick Attached Rowhouse,63111,Residential,3437,31300002100
 212 W STEINS ST,Patch,11,1 Story Frame Residence,63111,Residential,3498.81,30960000400
 8518 WATER ST,Patch,11,1 Story Frame Residence,63111,Residential,6020,32330000200
-4972 EICHELBERGER ST,Princeton Heights,14,Contact Michele Duffe - 314-771-5335,63109,Residential,4323,55940000107
 3721 PHILLIPS PL,Tower Grove South,15,2 Story Frame Residence,63116,Residential,3687,41810001200
 3884 FAIRVIEW AV,Tower Grove South,15,2 Story Brick Two Family Flat,63116,Residential,4341,41870000400
 4341 HUNT AV,Forest Park Southeast,17,1 Story Brick Residence,63110,Residential,3125,39820003900
@@ -805,7 +807,7 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4708 KENSINGTON PL,Lewis Place,18,2 Story Brick Attached Row House,63108,Residential,2538,37610601800
 5101 ENRIGHT AV,Academy,18,2 Story Brick Residence,63108,Residential,2617.5107645,48430003300
 3733 EVANS AV,Covenant Blu / Grand Center,18,2 Story Brick Two Family Flat,63113,Residential,2650.911658,18660003000
-1220 JONES ST,Vandeventer,18,1 Story Brick Residence,63113,Residential,2875,37400000500
+3705 EVANS AV,Covenant Blu / Grand Center,18,,63113,Residential,2748,18660001900
 4308 COOK AV,Vandeventer,18,2.5 Story Brick Attached Row House,63113,Residential,2925,45580002100
 3943 FINNEY AV,Vandeventer,18,2 Story Brick Residence,63113,Residential,3155,37420005700
 3744 PAGE BLVD,Covenant Blu / Grand Center,18,Half of a Two Story Brick Four Family Flat,63113,Residential,3250,37360000900
@@ -834,6 +836,7 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4924 FOUNTAIN AV,Fountain Park,18,2 Story Brick Residence,63113,Residential,5100,37640503100
 5105 ENRIGHT AV,Academy,18,2 Story Brick Residence,63108,Residential,5553.5025715,48430003400
 3836 EVANS AV,Covenant Blu / Grand Center,18,1 Story Brick Residence,63113,Residential,5629.462719,37350001400
+3803 WINDSOR PL,Covenant Blu / Grand Center,18,0.132 Acres,63113,Residential,5740,37470003370
 5146 CATES AV,Academy,18,2 Story Brick/Stone Residence,63108,Residential,5778,48420001100
 4036 WEST BELLE PL,Vandeventer,18,2 Story Brick Four Family Flat,63108,Residential,5782,37540000800
 4201 W COOK AV,Vandeventer,18,2.5 Story Brick Residence,63113,Residential,6666.83425,37450005600
@@ -853,8 +856,8 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 3706 CALIFORNIA AV,Gravois Park,20,1 Story Brick Residence,63118,Residential,3011.598041,16400001400
 4033 CALIFORNIA AV,Dutchtown,20,1 Story Brick Residence,63118,Residential,3058,26020002600
 3633 S COMPTON AV,Gravois Park,20,2 Story Brick Residence,63118,Residential,3121,16180002900
-3737 S COMPTON AV,Gravois Park,20,1 Story Brick Residence,63118,Residential,3125,16190003000
 3928 CALIFORNIA AV,Dutchtown,20,1 Story Brick Residence,63118,Residential,3125,25670000500
+3737 S COMPTON AV,Gravois Park,20,1 Story Brick Residence,63118,Residential,3125,16190003000
 3443 PENNSYLVANIA AV,Gravois Park,20,1 Story Brick Residence,63118,Residential,3126,15770003600
 3728 OREGON AV,Gravois Park,20,2 Story Brick Residence,63118,Residential,3177,16370000600
 3729 OREGON AV,Gravois Park,20,1 Story Brick Residence,63118,Residential,3188,16340002100
@@ -871,15 +874,17 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 2024 ALICE AV,O'Fallon,21,2 Story Brick Residence,63107,Residential,2023,35370000800
 3611 N NEWSTEAD AV,The Greater Ville,21,2 Story Brick Two Family Flat,63115,Residential,2192,44460302000
 3605 N NEWSTEAD AV,The Greater Ville,21,2 Story Brick Two Family Flat,63115,Residential,2193,44460302300
+3617 N NEWSTEAD AV,The Greater Ville,21,2 Story Brick Two Family Flat,63115,Residential,2195,44460301800
 5315 CONDE ST,College Hill,21,2 Story Brick Two Family Flat,63107,Residential,2205.634731,33990003400
 4024 PENROSE ST,O'Fallon,21,2 Story Brick Two Family Flat,63107,Residential,2396.91855,35760001300
 2040 ALICE AV,O'Fallon,21,2 Story Brick Four Family Flat,63107,Residential,2470.291208,35370000200
 4015 CAMELLIA AV,Penrose,21,1 Story Brick Residence,63115,Residential,2500,55950002700
-4146 W PENROSE ST,O'Fallon,21,2 Story Frame Residence,63115,Residential,2525,35730303700
 4214 PENROSE ST,O'Fallon,21,1 Story Brick Residence,63115,Residential,2525,35730302800
 4120 W PENROSE ST,O'Fallon,21,2 Story Brick Residence,63115,Residential,2525,35730304600
 4370 PENROSE ST,O'Fallon,21,1.5 Story Brick Residence,63115,Residential,2525,35730400700
+4146 W PENROSE ST,O'Fallon,21,2 Story Frame Residence,63115,Residential,2525,35730303700
 4216 PENROSE ST,O'Fallon,21,2 Story Brick Two Family Flat,63115,Residential,2527,35730302700
+4437 LEE AV,Penrose,21,1 Story Brick Residence,63115,Residential,2599,44130005100
 4257 MARGARETTA AV,O'Fallon,21,1 Story Brick Residence,63115,Residential,2687,50380001600
 4236 W KOSSUTH AV,O'Fallon,21,1 Story Brick Residence,63115,Residential,2690,44370000200
 4461 PENROSE ST,Penrose,21,1 Story Brick Residence,63115,Residential,2695,44161705200
@@ -887,8 +892,8 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4155 LEE AV,O'Fallon,21,2 Story Brick Residence,63115,Residential,2715,35750003410
 4138 LEA PL,O'Fallon,21,1 Story Brick and Frame Residence,63115,Residential,2725,44290002400
 4437 PENROSE ST,Penrose,21,1 Story Brick Residence,63115,Residential,2731.586,44161704400
-4246 CLAY AV,O'Fallon,21,1 Story Brick Residence,63115,Residential,2750,48990002600
 4249 CLAY AV,O'Fallon,21,1 Story Frame Residence,63115,Residential,2750,48970001600
+4246 CLAY AV,O'Fallon,21,1 Story Brick Residence,63115,Residential,2750,48990002600
 4251 CLAY AV,O'Fallon,21,2 Story Frame Residence,63115,Residential,2750.070836,48970001500
 4228 W FARLIN AV,O'Fallon,21,1 Story Brick Residence,63115,Residential,2759.483552,50370000600
 4463 LEE AV,Penrose,21,1 Story Brick Residence,63115,Residential,2777,44130006300
@@ -897,7 +902,6 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4011 N TAYLOR AV,Penrose,21,1 Story Brick Residence,63115,Residential,2889,56690002800
 4494 PENROSE ST,Penrose,21,1.5 Story Brick Residence,63115,Residential,2891.5,44130000300
 4663 PALM ST,The Greater Ville,21,1 Story Brick Residence,63115,Residential,2916,44501502100
-4703 SACRAMENTO AV,Penrose,21,1 Story Brick Residence,63115,Residential,2976,44070001300
 4152 LEE AV,O'Fallon,21,2 Story Frame Residence,63115,Residential,3000,44290000600
 4152 LEE AV,O'Fallon,21,2 Story Frame Residence,63115,Residential,3000,44290000600
 4223 W KOSSUTH AV,O'Fallon,21,1 Story Brick Residence,63115,Residential,3022,44250002900
@@ -908,19 +912,19 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4028 N TAYLOR AV,Penrose,21,1 Story Brick Residence,63115,Residential,3048,55950000600
 4124 RED BUD AV,O'Fallon,21,2 Story Frame Residence,63115,Residential,3125,44270000700
 4248 LEE AV,O'Fallon,21,1 Story Brick Residence,63115,Residential,3125,44260301300
-4652 SHIRLEY PL,Penrose,21,1 Story Brick Residence,63115,Residential,3125,44191002200
+4515 MARY AV,O'Fallon,21,1 Story Brick Residence,63107,Residential,3125,35460004300
 4441 FARLIN AV,Penrose,21,2 Story Brick Residence,63115,Residential,3125,44110103400
 4519 MARY AV,O'Fallon,21,1 Story Brick Residence,63107,Residential,3125,35460004100
 4260 LEE AV,O'Fallon,21,2 Story Frame Residence,63115,Residential,3125,44260300900
-4515 MARY AV,O'Fallon,21,1 Story Brick Residence,63107,Residential,3125,35460004300
+4652 SHIRLEY PL,Penrose,21,1 Story Brick Residence,63115,Residential,3125,44191002200
 4326 ROSALIE ST,O'Fallon,21,2 Story Brick Residence,63115,Residential,3135,35600002600
 1905 E DESOTO AV,College Hill,21,2 Story Brick Two Family Flat,63107,Residential,3198.028724,33590003100
 4026 LEE AV,O'Fallon,21,2 Story Frame Residence,63107,Residential,3216,35960000800
 3606 N TAYLOR AV,The Greater Ville,21,2 Story Brick Two Family Flat,63115,Residential,3221,44460403900
 4449 BESSIE AV,Penrose,21,2 Story Frame Residence,63115,Residential,3225,44161604100
 4124 RUSH PL,O'Fallon,21,1 Story Brick Residence,63115,Residential,3228,44260300500
-4445 BESSIE AV,Penrose,21,2 Story Frame Residence,63115,Residential,3240,44161604000
 4045 SHREVE AV,Penrose,21,2 Story Brick Two Family Flat,63115,Residential,3240,43890202900
+4445 BESSIE AV,Penrose,21,2 Story Frame Residence,63115,Residential,3240,44161604000
 4645 PALM ST,The Greater Ville,21,1 Story Brick Residence,63115,Residential,3240,44501501500
 2012 E LINTON AV,College Hill,21,2 Story Brick Two Family Flat,63107,Residential,3289.057758,33580001300
 4126 HULL PL,O'Fallon,21,1 Story Frame Residence,63107,Residential,3378.467438,35960000500
@@ -968,7 +972,7 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4429 HOLLY AV,O'Fallon,21,2 Story Brick Two Family Flat,63115,Residential,4650,35610004000
 4234 W SACRAMENTO AV,O'Fallon,21,2 Story Brick Four Family Flat,63115,Residential,4804,36090000200
 4222 W MARGARETTA AV,O'Fallon,21,2 Story Frame Residence,63115,Residential,4812,36110000600
-4414 ATHLONE AV,O'Fallon,21,2 Sty Brk 2 FF ,63115,Residential,4819,35630000400
+4414 ATHLONE AV,O'Fallon,21,2 Story Brick Two Family Flat,63115,Residential,4819,35630000400
 4455 BESSIE AV,Penrose,21,2 Story Frame Residence,63115,Residential,4860,44161604200
 4429 ANDERSON AV,Penrose,21,1 Story Frame Residence,63115,Residential,4861,44160502800
 3812 HARRIS AV,O'Fallon,21,1.5 Story Brick Residence,63115,Residential,5001,36010002500
@@ -987,7 +991,6 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4610 CARTER AV,Penrose,21,1 Story Brick Residence/Plus 30 Foot Lot,63115,Residential,5700,44150901000
 4458 MARGARETTA AV,Penrose,21,2 Story Brick Two Family Flat,63115,Residential,5798.765181,44100100900
 4032 CAMELLIA AV,Penrose,21,1 Story Brick Residence,63115,Residential,5850,44110104600
-4312 DRYDEN CT,Penrose,21,1 Story Brick Residence,63115,Residential,5851,35570100500
 4202 LEE AV,O'Fallon,21,2 Story Brick Four Family Flat,63115,Residential,5894.7,44280000100
 4422 PENROSE ST,Penrose,21,2 Story Frame Residence,63115,Residential,5956,44130003200
 2109 DESOTO AV,College Hill,21,1 Story Frame Residence,63107,Residential,6104.07157,33570001950
@@ -1012,9 +1015,9 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 5750 MAFFITT AV,Wells / Goodfellow,22,1 Story Frame Residence,63112,Residential,2539.909372,52010000400
 5739 KENNERLY AV,Wells / Goodfellow,22,1 Story Frame Residence,63112,Residential,2544.410626,52010007100
 5752 COTE BRILLIANTE AV,Wells / Goodfellow,22,2 Story Brick Residence,63112,Residential,2580,48270000400
-5610 HIGHLAND AV,Wells / Goodfellow,22,1.5 Story Frame Residence,63112,Residential,2625,51990003900
-5649 MAFFITT AV,Wells / Goodfellow,22,2 Story Brick Residence,63112,Residential,2625,52020004700
 5659 MAFFITT AV,Wells / Goodfellow,22,1 Story Frame Residence,63112,Residential,2625,52020005100
+5649 MAFFITT AV,Wells / Goodfellow,22,2 Story Brick Residence,63112,Residential,2625,52020004700
+5610 HIGHLAND AV,Wells / Goodfellow,22,1.5 Story Frame Residence,63112,Residential,2625,51990003900
 5516 WABADA AV,Wells / Goodfellow,22,1 Story Brick Residence,63112,Residential,2650,45280001800
 5655 KENNERLY AV,Wells / Goodfellow,22,1 Story Frame Residence,63112,Residential,2704.3785815,52010005400
 5734 HIGHLAND AV,Wells / Goodfellow,22,1 Story Frame Residence,63112,Residential,2711.238892,51990001100
@@ -1033,8 +1036,8 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 5836 COTE BRILLIANTE AV,Wells / Goodfellow,22,1 Story Brick Residence,63112,Residential,2862.332364,49910002200
 1321 BLACKSTONE AV,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,2874,38161002200
 1360 BURD AV,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,2881,38070700200
-1405 GRANVILLE PL,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,2884,38060703500
 5971 HIGHLAND AV,Wells / Goodfellow,22,2 Story Brick Residence,63112,Residential,2884,49950004700
+1405 GRANVILLE PL,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,2884,38060703500
 5975 COTE BRILLIANTE AV,Wells / Goodfellow,22,2.5 Story Brick Residence,63112,Residential,2884.462645,49980005100
 5763 ROOSEVELT PL,Wells / Goodfellow,22,1 Story Brick Residence,63120,Residential,2886.3406325,52440008000
 5508 GREER AV,Wells / Goodfellow,22,2 Story Brick Two Family Flat,63120,Residential,2918.052669,52810001500
@@ -1046,17 +1049,17 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 1374 GOODFELLOW BLVD,Hamilton Heights,22,2.5 Story Brick Residence,63112,Residential,2975,38170900700
 5647 WELLS AV,Hamilton Heights,22,2 Story Brick Two Family Flat,63112,Residential,2986.6599235,38190303100
 1364 MONTCLAIR AV,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,2990,38071000400
-1365 MONTCLAIR AV,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,2990,38070902700
 1367 MONTCLAIR AV,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,2990,38070902600
+1365 MONTCLAIR AV,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,2990,38070902700
 1276 GOODFELLOW BLVD,West End,22,2 Story Brick Residence,63112,Residential,2990,38150900800
 5826 COTE BRILLIANTE AV,Wells / Goodfellow,22,2.5 Story Brick Two Family Flat,63112,Residential,2990.0701985,49910002600
 5957 PAGE BLVD,Hamilton Heights,22,2 Story Brick Two Family Flat,63112,Residential,2991,38340604400
 1365 GRANVILLE PL,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,3000,38070702900
 5828 COTE BRILLIANTE AV,Wells / Goodfellow,22,2 Story Brick Residence,63112,Residential,3003.108768,49910002500
 5543 LABADIE AV,Wells / Goodfellow,22,1 Story Frame Residence,63120,Residential,3012,52810003300
-5553 GREER AV,Wells / Goodfellow,22,1 Story Frame Residence,63120,Residential,3012,52820003050
 5507 LABADIE AV,Wells / Goodfellow,22,1 Story Frame Residence,63120,Residential,3012,52810002100
 5944 HIGHLAND AV,Wells / Goodfellow,22,2 Story Brick Two Family Flat,63112,Residential,3012,49960001400
+5553 GREER AV,Wells / Goodfellow,22,1 Story Frame Residence,63120,Residential,3012,52820003050
 5328 COTE BRILLIANTE AV,Wells / Goodfellow,22,2 Story Brick Two Family Flat,63112,Residential,3037,45130201700
 1410 LAUREL ST,Hamilton Heights,22,1 Story Brick Residence,63112,Residential,3042,38210300100
 5529 LABADIE AV,Wells / Goodfellow,22,1 Story Frame Residence,63120,Residential,3044.4792005,52810002700
@@ -1086,9 +1089,9 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 1417 GOODFELLOW BLVD,Hamilton Heights,22,3 Story Brick Residence,63112,Residential,3267.145862,38210302000
 1436 HAMILTON BLVD,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,3298,38210401200
 1275 AMHERST PL,West End,22,2 Story Brick Residence,63112,Residential,3330,38331804800
+1342 GOODFELLOW BLVD,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,3332,38160901000
 1411 LAUREL ST,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,3332,38210002100
 1356 MONTCLAIR AV,Hamilton Heights,22,2 Story Brick Two Family Flat,63112,Residential,3332,38071000200
-1342 GOODFELLOW BLVD,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,3332,38160901000
 5928 KENNERLY AV,Wells / Goodfellow,22,2 Story Brick Residence,63112,Residential,3352.898346,49950001600
 5331 THEODOSIA AV,Wells / Goodfellow,22,2 Story Frame Residence,63112,Residential,3369.0239435,45130103300
 5575 ST LOUIS AV,Wells / Goodfellow,22,1 Story Frame Residence,63120,Residential,3394.127618,52420002100
@@ -1098,8 +1101,8 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 5351 WABADA AV,Wells / Goodfellow,22,2 Story Brick Four Family Flat,63112,Residential,3432.54,45160202600
 1910 CLARA AV,Wells / Goodfellow,22,1 Story Brick Residence,63112,Residential,3525,45310000400
 1325 TEMPLE PL,Hamilton Heights,22,2.5 Story Brick Residence,63112,Residential,3559.71298,38160702100
-5318 ST LOUIS AV,Wells / Goodfellow,22,2 Story Brick Two Family Flat,63120,Residential,3584,55550001000
 5885 MINERVA AV,Hamilton Heights,22,2 Story Brick Two Family Flat,63112,Residential,3584,38220605000
+5318 ST LOUIS AV,Wells / Goodfellow,22,2 Story Brick Two Family Flat,63120,Residential,3584,55550001000
 1329 TEMPLE PL,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,3585,38160702000
 5879 MINERVA AV,Hamilton Heights,22,2 Story Brick Two Family Flat,63112,Residential,3587.1462045,38220604800
 1367 TEMPLE PL,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,3607,38170702900
@@ -1111,9 +1114,8 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 3409 BELT AV,Wells / Goodfellow,22,2 Story Brick Two Family Flat,63120,Residential,3809.5680035,59310002400
 1170 HODIAMONT AV,West End,22,2 Story Brick Two Family Flat,63112,Residential,3812.9416625,38310004200
 5838 LOTUS AV,Wells / Goodfellow,22,2 Story Brick Two Family Flat,63112,Residential,3822,49920002100
-5899 HIGHLAND AV,Wells / Goodfellow,22,2 Story Brick Two Family Flat,63112,Residential,3825,55520005500
-5869 HIGHLAND AV,Wells / Goodfellow,22,1.5 Story Brick Residence,63112,Residential,3825,55520004700
 5821 HIGHLAND AV,Wells / Goodfellow,22,2 Story Brick Two Family Flat,63112,Residential,3825,55520003000
+5869 HIGHLAND AV,Wells / Goodfellow,22,1.5 Story Brick Residence,63112,Residential,3825,55520004700
 5710 KENNERLY AV,Wells / Goodfellow,22,1 Story Frame Residence,63112,Residential,3835,52000001800
 1308 TEMPLE PL,Hamilton Heights,22,2 Story Brick Two Family Flat,63112,Residential,3895,38160800200
 1315 LAUREL ST,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,3900,38230401100
@@ -1125,8 +1127,8 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 1484 LAUREL ST,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,3994,53060001100
 1308 BLACKSTONE AV,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,4018,38160700200
 1942 ARLINGTON AV,Wells / Goodfellow,22,1.5 Story Frame Residence,63112,Residential,4032,45150005400
-5709 TERRY AV,Wells / Goodfellow,22,1 Story Brick Residence,63120,Residential,4050,52430006300
 5711 TERRY AV,Wells / Goodfellow,22,1 Story Brick Residence,63120,Residential,4050,52430006400
+5709 TERRY AV,Wells / Goodfellow,22,1 Story Brick Residence,63120,Residential,4050,52430006300
 1221 GOODFELLOW BLVD,West End,22,2.5 Story Brick Residence,63112,Residential,4052,38250002100
 1437 AMHERST TER,Hamilton Heights,22,1 Story Brick Residence,63112,Residential,4081,38360005300
 1398 BLACKSTONE AV,Hamilton Heights,22,2 Story Brick Residence,63112,Residential,4114,38170701600
@@ -1147,7 +1149,6 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 1267 AMHERST PL,West End,22,2 Story Brick Four Family Flat,63112,Residential,4384,38331804600
 5895 ROMAINE PL,Hamilton Heights,22,2.5 Story Brick Residence,63112,Residential,4425.8878735,38220506200
 5832 TERRY AV,Wells / Goodfellow,22,2 Story Brick Two Family Flat-Fire Damaged,63120,Residential,4428,60970001600
-5816 ST LOUIS AV,Wells / Goodfellow,22,1 Story Brick Residence,63120,Residential,4439,60990002100
 1601 ARLINGTON AV,Wells / Goodfellow,22,2 Story Brick Two Family Flat,63112,Residential,4443.5081795,45210002600
 5656 LABADIE AV,Wells / Goodfellow,22,2 Story Brick Four Family Flat,63120,Residential,4454.4898925,52370001800
 3315 ARLINGTON AV,Wells / Goodfellow,22,1 Story Frame Resdience,63120,Residential,4500,45200004400
@@ -1166,7 +1167,7 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 5743 LOTUS AV,Wells / Goodfellow,22,2 Story Brick Residence,63112,Residential,4800,49140007000
 5551 ASHLAND AV,Wells / Goodfellow,22,2 Story Brick Two Family Flat,63120,Residential,4882.3744835,59320003300
 5701 ST LOUIS AV,Wells / Goodfellow,22,2 Story Brick Four Family Flat,63120,Residential,4902.225718,52370005300
-5555 ASHLAND AV,Wells / Goodfellow,22,2 Story Brick Four Family Flat,63120,Residential,4914,59320003400
+5555 ASHLAND AV,Wells / Goodfellow,22,2 Story Brick Residence,63120,Residential,4914,59320003400
 5936 JULIAN AV,West End,22,2 Story Concrete Block Residence,63112,Residential,4921,29870008300
 5547 ASHLAND AV,Wells / Goodfellow,22,2 Story Brick Four Family Flat,63120,Residential,4973.6117775,59320003200
 5826 KENNERLY AV,Wells / Goodfellow,22,2 Story Brick Four Family Flat,63112,Residential,4993.5155555,55520001800
@@ -1221,7 +1222,6 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 2838 ARLINGTON AV,Wells / Goodfellow,22,2 Story Frame Residence,63120,Residential,10555,45170507300
 5916 PAGE BLVD,West End,22,2 Story Brick Residence,63112,Residential,11139,38331801500
 1931 BURD AV,Wells / Goodfellow,22,2 Story Brick Six Family Flat,63112,Residential,12801,45310003800
-3219 MOUNT PLEASANT ST,Dutchtown,25,2 Story Brick Residence,63111,Residential,3250,27250002000
 455 WALSH ST,Dutchtown,25,2 Story Brick Two Family Flat,63111,Residential,6732,28010001150
 5101 WICKLOW PL,Mount Pleasant,25,1 Story Brick Residence,63111,Residential,7029,28000401050
 4921 S COMPTON AV,Dutchtown,25,1 Story Brick Two Family Flat,63111,Residential,7830,28040001900
@@ -1268,8 +1268,8 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 5079 CLAXTON AV,Mark Twain,27,1 Story Frame Residence,63120,Residential,3001.3881535,55570003900
 5066 ARLINGTON AV,Mark Twain,27,1 Story Frame Residence,63120,Residential,3002.8522775,55570002000
 5922 LALITE AV,Walnut Park West,27,1 Story Brick Residence,63136,Residential,3010.9188465,53500001700
-5430 BEACON AV,Walnut Park East,27,1.5 Story Brick Residence,63120,Residential,3031,55270001700
 5258 BEACON AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3031,55320001700
+5430 BEACON AV,Walnut Park East,27,1.5 Story Brick Residence,63120,Residential,3031,55270001700
 5264 BEACON AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,3032,55320001900
 4559 DAVISON AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3033,53170004000
 5925 LALITE AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,3048.8035525,53490003500
@@ -1277,36 +1277,36 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 5922 THEKLA AV,Walnut Park West,27,2 Story Frame Residence,63136,Residential,3063.760212,53560000900
 5412 GENEVIEVE AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3086.3783845,55280000400
 6025 EMMA AV,Walnut Park West,27,2 Story Brick Residence,63136,Residential,3113,53440003300
+5087 CLAXTON AV,Mark Twain,27,2 Story Frame Residence,63120,Residential,3125,55570003600
+5925 EMMA AV,Walnut Park West,27,1 Story Brick Residence,63136,Residential,3125,53590002900
 5518 GENEVIEVE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3125,55250000600
 5519 BEACON AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3125,55250002700
 5473 BEACON AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3125,55280003200
 5441 GENEVIEVE AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3125,55290003900
-5087 CLAXTON AV,Mark Twain,27,2 Story Frame Residence,63120,Residential,3125,55570003600
-5925 EMMA AV,Walnut Park West,27,1 Story Brick Residence,63136,Residential,3125,53590002900
-5055 CLAXTON AV,Mark Twain,27,1 Story Frame Residence,63120,Residential,3125,55570004800
-5443 GENEVIEVE AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3125,55290003800
-6056 SHULTE AV,Walnut Park West,27,2 Story Frame Residence,63136,Residential,3125,53430000600
-5056 ALCOTT AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3125,51380001900
-5935 THEODORE AV,Walnut Park West,27,1 Story Brick Residence,63136,Residential,3125,53480003200
-5035 CLAXTON AV,Mark Twain,27,1 Story Brick Residence,63120,Residential,3125,55570005500
-6050 LUCILLE AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,3125,53460000700
-5266 THRUSH AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3125,55300002200
-4961 ARLINGTON AV,Mark Twain,27,2 Story Frame Residence,63120,Residential,3125,55600002200
-4961 BEACON AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3125,53200002800
+6008 EMMA AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,3125,53450002000
+6037 GARESCHE AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,3125,53470003400
+4941 EMERSON AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3125,52930003600
 5975 THEODORE AV,Walnut Park West,27,1 Story Brick Residence,63136,Residential,3125,53480004400
-5483 GENEVIEVE AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3125,55290002500
 6040 EMMA AV,Walnut Park West,27,2 Story Frame Residence,63136,Residential,3125,53450001000
+5483 GENEVIEVE AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3125,55290002500
 5209 GENEVIEVE AV,Walnut Park East,27,1.5 Story Frame Residence,63120,Residential,3125,55300005000
 5273 BEACON AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,3125,55310002600
 5972 THEODORE AV,Walnut Park West,27,1 Story Brick Residence,63136,Residential,3125,53490001000
-4941 EMERSON AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3125,52930003600
-6008 EMMA AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,3125,53450002000
-6037 GARESCHE AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,3125,53470003400
-5931 THEKLA AV,Walnut Park West,27,2 Story Brick Two Family Flat,63136,Residential,3125,53570002100
-6038 THEKLA AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,3125,53470001200
+6050 LUCILLE AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,3125,53460000700
+5035 CLAXTON AV,Mark Twain,27,1 Story Brick Residence,63120,Residential,3125,55570005500
+4961 ARLINGTON AV,Mark Twain,27,2 Story Frame Residence,63120,Residential,3125,55600002200
+5266 THRUSH AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3125,55300002200
+4961 BEACON AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3125,53200002800
 5459 GENEVIEVE AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3125,55290003200
 5248 GENEVIEVE AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3125,55310001400
+6038 THEKLA AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,3125,53470001200
+5931 THEKLA AV,Walnut Park West,27,2 Story Brick Two Family Flat,63136,Residential,3125,53570002100
 5019 ARLINGTON AV,Mark Twain,27,1 Story Brick Residence,63120,Residential,3125,55560006200
+5055 CLAXTON AV,Mark Twain,27,1 Story Frame Residence,63120,Residential,3125,55570004800
+5935 THEODORE AV,Walnut Park West,27,1 Story Brick Residence,63136,Residential,3125,53480003200
+5056 ALCOTT AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3125,51380001900
+5443 GENEVIEVE AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3125,55290003800
+6056 SHULTE AV,Walnut Park West,27,2 Story Frame Residence,63136,Residential,3125,53430000600
 5940 LUCILLE AV,Walnut Park West,27,1 Story Brick Residence,63136,Residential,3139,53570000600
 5920 THEODORE AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,3161,53490002500
 5826 SALOMA AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3187,53900001000
@@ -1330,8 +1330,8 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 5435 THRUSH AV,Walnut Park East,27,1.5 Story Frame Residence,63120,Residential,3463,51240003700
 5448 GILMORE AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3463,51270001200
 5708 W FLORISSANT AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,3500,51330001900
-6176 LAURA AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,3500,54910000200
 5961 SHULTE AV,Walnut Park West,27,1 Story Brick Residence,63136,Residential,3521,53610001400
+5322 ARLINGTON AV,Mark Twain,27,2 Story Frame Residence,63120,Residential,3541.131102,53290000800
 5763 FLOY AV,Walnut Park West,27,1 Story Brick Residence,63136,Residential,3541.2233685,55890003000
 5218 ORIOLE AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,3545.44,54140000500
 6135 SHERRY AV,Walnut Park West,27,1 Story Brick Residence,63136,Residential,3545.4776895,48870003100
@@ -1346,31 +1346,31 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 5334 ARLINGTON AV,Mark Twain,27,2 Story Frame Residence,63120,Residential,3679,53290001200
 6030 EMMA AV,Walnut Park West,27,1 Story Brick Residence,63136,Residential,3703.417302,53450001300
 4730 BEACON AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,3738,53170001300
-5251 EMERSON AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3750,55680003400
 5338 ARLINGTON AV,Mark Twain,27,1 Story Brick Residence,63120,Residential,3750,53290001250
 4968 DAVISON AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3750,52920002300
+5251 EMERSON AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3750,55680003400
 5540 ALCOTT AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,56310001100
-4712 GENEVIEVE AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,3750,56710001000
-4930 ALCOTT AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,52930001000
-4709 GENEVIEVE AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,3750,56720105300
-4752 GENEVIEVE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,56710002300
-5352 ARLINGTON AV,Mark Twain,27,2 Story Frame Residence,63120,Residential,3750,53290001600
-4714 GENEVIEVE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,56710001100
-5004 ALCOTT AV,Walnut Park East,27,1.5 Story Frame Residence,63120,Residential,3750,51380000200
-5516 ALCOTT AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,56310000400
-4946 ALCOTT AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,52930001500
-5015 BEACON AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,53230004100
+4942 GENEVIEVE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,53200001100
+5270 ALCOTT AV,Walnut Park East,27,2 Story Brick Residence,63120,Residential,3750,55680002200
+6069 LUCILLE AV,Walnut Park West,27,2 Story Frame Residence,63136,Residential,3750,53450004300
+5045 GENEVIEVE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,53220002900
 5210 DAVISON AV,Walnut Park East,27,1.5 Story Frame Residence,63120,Residential,3750,55690000400
 5249 EMERSON AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3750,55680003500
 5060 DAVISON AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,51390000800
+4712 GENEVIEVE AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,3750,56710001000
 5229 ALCOTT AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,3750,55690004300
 5048 THRUSH AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,53220001100
 4932 ALCOTT AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,52930001100
 4951 EMERSON AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,3750,52930003200
-4942 GENEVIEVE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,53200001100
-6069 LUCILLE AV,Walnut Park West,27,2 Story Frame Residence,63136,Residential,3750,53450004300
-5270 ALCOTT AV,Walnut Park East,27,2 Story Brick Residence,63120,Residential,3750,55680002200
-5045 GENEVIEVE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,53220002900
+4930 ALCOTT AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,52930001000
+4709 GENEVIEVE AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,3750,56720105300
+5352 ARLINGTON AV,Mark Twain,27,2 Story Frame Residence,63120,Residential,3750,53290001600
+4752 GENEVIEVE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,56710002300
+5015 BEACON AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,53230004100
+5004 ALCOTT AV,Walnut Park East,27,1.5 Story Frame Residence,63120,Residential,3750,51380000200
+4946 ALCOTT AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,52930001500
+4714 GENEVIEVE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,56710001100
+5516 ALCOTT AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750,56310000400
 4748 THRUSH AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750.026678,56720102200
 4737 GENEVIEVE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3750.069569,56720104500
 5264 ALCOTT AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,3755.334744,55680002000
@@ -1389,14 +1389,14 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 4947 GENEVIEVE AV,Walnut Park East,27,2 Story Brick Residence,63120,Residential,4052,53210003300
 5942 HARNEY AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,4063,53590000900
 5342 ORIOLE AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,4080,54140001900
-4711 THRUSH AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,4140,54830004600
 4771 THRUSH AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,4140,54830002700
+4711 THRUSH AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,4140,54830004600
 4917 THRUSH AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,4145,53970004600
-5041 PLOVER AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,4155,53950002200
 4912 PLOVER AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,4155,53970000400
+5041 PLOVER AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,4155,53950002200
 4758 PLOVER AV,Walnut Park East,27,1.5 Story Frame Residence,63120,Residential,4155,54830001800
-5462 ORIOLE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,4200,51280001600
 5846 W FLORISSANT AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,4200,51370001400
+5462 ORIOLE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,4200,51280001600
 4966 BEACON AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,4242,52910002200
 5218 WREN AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,4292.9099525,51210000500
 4525 ALCOTT AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,4375,53180003900
@@ -1409,15 +1409,15 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 5050 ALCOTT AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,4773.427689,51380001700
 5039 GENEVIEVE AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,4799.652873,53220003100
 4917 PLOVER AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,4847,53980004500
-4901 DAVISON AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,4853,52910005100
 6211 NORTH POINTE BLVD,North Point,27,1 Story Brick Residence,63147,Residential,4900,57360004100
-5948 LALITE AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,5000,53500001000
 5962 SHULTE AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,5000,53600000200
+5948 LALITE AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,5000,53500001000
 5135 ROBIN AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,5263,53930001000
 5541 PLOVER AV,Walnut Park East,27,2 Story Brick Two Family Flat,63120,Residential,5305.66,51320002300
 5024 PLOVER AV,Walnut Park East,27,1 Story Brick Residence,63120,Residential,5540,53960000700
 6057 LUCILLE AV,Walnut Park West,27,1.5 Story Frame Residence,63136,Residential,5625,53450004000
 4947 BEACON AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,5625,53200003200
+5420 THRUSH AV,Walnut Park East,27,,63120,Residential,5750,55290000800
 6306 SHERRY AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,5832,54890001200
 5986 THEODORE AV,Walnut Park West,27,1.5 Story Frame Two Family Flat,63136,Residential,5930.046844,53490000500
 5742 SALOMA AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,5981.3,53900002200
@@ -1426,10 +1426,10 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 5455 PLOVER AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,6233,51250002900
 5535 PARTRIDGE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,6247.863098,51370002000
 6037 LUCILLE AV,Walnut Park West,27,1.5 Story Frame Residence,63136,Residential,6250,53450003500
-5249 GENEVIEVE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,6250,55300003600
-5969 SHERRY AV,Walnut Park West,27,2 Story Frame Residence,63136,Residential,6250,53500003900
 5063 ARLINGTON AV,Mark Twain,27,1.5 Story Frame Residence,63120,Residential,6250,55560004900
 6029 HARNEY AV,Walnut Park West,27,2 Story Frame Residence,63136,Residential,6250,53430003350
+5249 GENEVIEVE AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,6250,55300003600
+5969 SHERRY AV,Walnut Park West,27,2 Story Frame Residence,63136,Residential,6250,53500003900
 5452 PLOVER AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,6358.4374695,51240001500
 6014 LUCILLE AV,Walnut Park West,27,1 Story Frame Residence,63136,Residential,6378,53460001800
 5007 THRUSH AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,6912,53960003100
@@ -1438,8 +1438,8 @@ Address,Neighborhood,Ward,Description,ZipCode,Usage,Lot Square Feet,ParcelId
 5240 PLOVER AV,Walnut Park East,27,1 Story Frame Residence-Collapsing,63120,Residential,6925,51200001000
 5216 WREN AV,Walnut Park East,27,1.5 Story Frame Residence,63120,Residential,6925,51210000400
 5431 ROBIN AV,Walnut Park East,27,1.5 Story Frame Residence,63120,Residential,6925,51270003600
-5041 WREN AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,6925,53940002600
 5225 WREN AV,Walnut Park East,27,2 Story Brick Four Family Flat,63120,Residential,6925,51220003700
+5041 WREN AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,6925,53940002600
 5036 WREN AV,Walnut Park East,27,2 Story Frame Residence,63120,Residential,6932,53950000800
 5596 ERA AV,Walnut Park West,27,1 Story Frame Two Family Flat,63136,Residential,6990,57890001800
 5249 PLOVER AV,Walnut Park East,27,1 Story Frame Residence,63120,Residential,6994.570197,51210003000

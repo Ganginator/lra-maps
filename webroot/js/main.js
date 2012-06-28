@@ -98,15 +98,15 @@ function GeocodeCallback(result, addy) {
 	if(addy.longitude!='' && addy.longitude!=null && addy.latitude!='' && addy.latitude!=null) {
 		var loc = new Microsoft.Maps.Location(addy.latitude, addy.longitude);
 		var this_pin = new Microsoft.Maps.Pushpin(loc);
-		description_text = 'Parcel ID: '+addy.parcel_id+'<br />Neighborhood: '+addy.neighborhood+'<br />Ward: '+addy.ward;
+		description_text = 'Parcel ID: '+addy.parcel_id+'<br />\'hood: '+addy.neighborhood+', Ward: '+addy.ward;
 		if(addy.description!='') {
 			description_text = description_text+'<br />Description: '+addy.description;
 		}
 		if(addy.usage!='') {
-			description_text = description_text+'<br />Usage: '+addy.usage;
+			description_text = description_text+', '+addy.usage;
 		}
 		if(addy.lot_square_feet!='') {
-			description_text = description_text+'<br />Square Feet: '+Math.round(addy.lot_square_feet);
+			description_text = description_text+' ('+Math.round(addy.lot_square_feet)+'sq ft)';
 		}
 		this_pin.Title = ucwords(addy.street);
 		this_pin.Description = description_text;
@@ -121,7 +121,7 @@ function GeocodeCallback(result, addy) {
 		} else {
 			var loc = new Microsoft.Maps.Location(result.resourceSets[0].resources[0].geocodePoints[0].coordinates[0], result.resourceSets[0].resources[0].geocodePoints[0].coordinates[1]);
 			var this_pin = new Microsoft.Maps.Pushpin(loc);
-			description_text = 'Parcel ID: '+addy.parcel_id+'<br />Neighborhood: '+addy.neighborhood+'<br />Ward: '+addy.ward;
+			description_text = 'Parcel ID: '+addy.parcel_id+'<br />\'hood: '+addy.neighborhood+', Ward: '+addy.ward;
 			if(addy.description!='') {
 				description_text = description_text+'<br />Description: '+addy.description;
 			}
@@ -129,7 +129,7 @@ function GeocodeCallback(result, addy) {
 				description_text = description_text+', '+addy.usage;
 			}
 			if(addy.lot_square_feet!='') {
-				description_text = description_text+Math.round(addy.lot_square_feet)+'sq ft';
+				description_text = description_text+' ('+Math.round(addy.lot_square_feet)+'sq ft)';
 			}
 			this_pin.Title = ucwords(addy.street);
 			this_pin.Description = description_text;
