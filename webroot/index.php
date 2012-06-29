@@ -32,8 +32,8 @@ $app->get('/data', function () use ($app) {
 		$conditions .= ' AND type IN ('.$types.')';
 	}
 	
-	$plots = Plot::find('all', array('limit'=>100, 'order'=>'RAND()', 'conditions'=>$conditions));
 	// $plots = Plot::find('all', array('limit'=>200, 'order'=>'RAND()', 'conditions'=>'latitude IS NULL AND hidden<>1'));
+	$plots = Plot::find('all', array('limit'=>100, 'order'=>'RAND()', 'conditions'=>$conditions));
 	$all_plots = array();
 	foreach($plots as $plot) {
 		$this_plot = $plot->attributes();
